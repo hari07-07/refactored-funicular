@@ -18,7 +18,7 @@
 ## ⚽ MENTALITY
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUybjNvNHVwdDA1and5YTZ2NWlxaDBsbGtvbGZkcTlmajlrcXlreDk4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4LGJ6znZJtl98H5mBB/giphy.gif" width="480"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaHgyM2tzemxnNDQzMTBqNWFiNGx4ZzhobmJucHFtMHJiMHUzenl0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JV7GuEriVvMk921YaA/giphy.gif" width="480"/>
 </p>
 
 > Train. Execute. Repeat.
@@ -28,7 +28,7 @@
 ## 💻 SYSTEM MODE
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaHgyM2tzemxnNDQzMTBqNWFiNGx4ZzhobmJucHFtMHJiMHUzenl0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JV7GuEriVvMk921YaA/giphy.gif" width="600"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydTlkNDFuZnJlZXh4Yzc0MjRoZXhrcDExbWN4bGEzZDJ0bXVjOHhwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="600"/>
 </p>
 
 > Silence. Focus. Execution.
@@ -38,7 +38,7 @@
 ## 🏎️ ELITE LIFE
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydTlkNDFuZnJlZXh4Yzc0MjRoZXhrcDExbWN4bGEzZDJ0bXVjOHhwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="480"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyeDQ5YXJsN3d1ZTgwNWY2Ym1iNzkzeDVjdjdnZzVwYmNvNzFtYXZ2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lim4DDJrSaj9m/giphy.gif" width="480"/>
 </p>
 
 > Speed. Precision. Power.
@@ -48,7 +48,7 @@
 ## 🏔️ EVEREST TARGET
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyeDQ5YXJsN3d1ZTgwNWY2Ym1iNzkzeDVjdjdnZzVwYmNvNzFtYXZ2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lim4DDJrSaj9m/giphy.gif" width="500"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUybjNvNHVwdDA1and5YTZ2NWlxaDBsbGtvbGZkcTlmajlrcXlreDk4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4LGJ6znZJtl98H5mBB/giphy.gif" width="500"/>
 </p>
 
 > Highest level. No shortcuts.
