@@ -1,75 +1,200 @@
-# ⚡ ELITE SYSTEM INITIALIZED
+<!-- HEADER ANIMATION -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=700&lines=CR7+MENTALITY;BILLIONAIRE+VISION;HACKER+DISCIPLINE;EVEREST+TARGET" />
-</p>
+```
+██████╗ ██╗██╗     ██╗
+██╔══██╗██║██║     ██║
+██████╔╝██║██║     ██║
+██╔══██╗██║██║     ██║
+██████╔╝██║███████╗███████╗
+╚═════╝ ╚═╝╚══════╝╚══════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=System+Mode%3A+ON+%F0%9F%92%BB;No+Excuses.+Only+Results.+%E2%9A%A1;Train.+Execute.+Repeat.+%F0%9F%94%81;Highest+Level+or+Nothing.+%F0%9F%8F%94%EF%B8%8F;Discipline+%3E+Talent.+Always." alt="Typing SVG" />
+
+</div>
 
 ---
 
+<div align="center">
+
+<!-- IDENTITY -->
 ## 🧠 IDENTITY
 
-- ⚽ Idol → CR7 (Discipline > Talent)  
-- 💰 Objective → Billionaire Status  
-- 💻 Domain → Code / Systems / Execution  
-- 🏔️ Mission → Everest Summit  
-- ⚡ Principle → No excuses. Only results.
+| Attribute | Value |
+|-----------|-------|
+| 🌟 Idol | CR7 — Discipline > Talent |
+| 💰 Objective | Billionaire Status |
+| 💻 Domain | Code / Systems / Execution |
+| 🏔️ Mission | Everest Summit |
+| ⚡ Principle | No excuses. Only results. |
+
+</div>
 
 ---
 
+<!-- MENTALITY -->
 ## ⚽ MENTALITY
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="480"/>
-</p>
+> *"Talent without work is nothing."* — CR7
 
-> Train. Execute. Repeat.
+```
+╔══════════════════════════════════════╗
+║  TRAIN    →   EXECUTE   →   REPEAT  ║
+║  REPEAT   →   IMPROVE   →   ELITE   ║
+╚══════════════════════════════════════╝
+```
+
+![CR7 Mentality](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
+<!-- SYSTEM MODE -->
 ## 💻 SYSTEM MODE
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRal7xw6PqE/giphy.gif" width="600"/>
-</p>
+```python
+class BillHari:
+    def __init__(self):
+        self.mode       = "SYSTEM ON 🔒"
+        self.distraction = None
+        self.focus      = float('inf')
+        self.target     = "EVEREST 🏔️"
+        self.principle  = "Discipline > Talent"
 
-> Silence outside. Focus inside.
+    def execute(self):
+        while not self.target_reached():
+            self.train()
+            self.build()
+            self.repeat()
+
+    def __repr__(self):
+        return "Silence outside. Focus inside."
+
+bill = BillHari()
+bill.execute()
+```
+
+> *Silence outside. Focus inside.*
 
 ---
 
+<!-- TARGET -->
 ## 🏔️ TARGET: EVEREST
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="480"/>
-</p>
+```
+                    /\
+                   /  \
+                  / ⭐ \     ← YOU BELONG HERE
+                 /______\
+                /        \
+               /  GRIND   \
+              /____________\
+             /              \
+            /   DISCIPLINE   \
+           /__________________\
+          /                    \
+         /  NO EXCUSES. EVER.   \
+        /________________________\
+```
 
-> Highest level or nothing.
+> *Highest level or nothing.*
 
 ---
 
+<!-- STACK -->
 ## ⚙️ STACK
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
-</p>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
+<!-- METRICS -->
 ## 📊 METRICS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hari07-07&show_icons=true&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=ffffff&rank_icon=percentile)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hari07-07&theme=matrix&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hari07-07&layout=compact&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=ffffff)
+
+</div>
 
 ---
 
-## ⚡ DOCTRINE
+<!-- ACTIVITY GRAPH -->
+## 📈 ACTIVITY
 
-> Discipline builds power.  
-> Power creates freedom.  
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hari07-07&theme=matrix&hide_border=true&bg_color=0d0d0d&color=00FF41&line=00FF41&point=ffffff)](https://github.com/hari07-07)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=18&center=true&vCenter=true&width=500&lines=FOCUS;EXECUTE;ASCEND" />
-</p>
+<!-- FOUNDER SECTION -->
+## 🚀 FOUNDER
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════╗
+║           🐾 CREATURE CONNECT               ║
+║   AI-Driven Animal Healthcare Platform       ║
+║                                              ║
+║  Early Disease Detection  |  Health Monitor  ║
+║  Intelligent Remedy Guidance for Animals     ║
+║                                              ║
+║         Building the future of               ║
+║         veterinary intelligence. 🤖          ║
+╚══════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- QUOTE SECTION -->
+## ⚡ DAILY FUEL
+
+<div align="center">
+
+```
+"The moment you give up is the moment
+ you let someone else win."
+                            — CR7
+```
+
+![Matrix](https://img.shields.io/badge/STATUS-IN_THE_MATRIX-00FF41?style=for-the-badge&labelColor=000000)
+![Mode](https://img.shields.io/badge/MODE-SYSTEM_ON-00FF41?style=for-the-badge&labelColor=000000)
+![Target](https://img.shields.io/badge/TARGET-EVEREST-00FF41?style=for-the-badge&labelColor=000000)
+
+</div>
+
+---
+
+<div align="center">
+
+*Built in silence. Delivered in results.*
+
+```
+> whoami
+bill — future billionaire, present builder.
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=hari07-07&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
